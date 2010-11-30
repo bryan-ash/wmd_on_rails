@@ -1,5 +1,5 @@
-WmdOnRails
-==========
+wmd_on_rails
+============
 
 This plugin helps you use the WMD Editor in your Rails app.
 
