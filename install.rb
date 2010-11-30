@@ -1,2 +1,2 @@
-FileUtils.cp_r(File.dirname(__FILE__) + '/javascripts/wmd',
-  RAILS_ROOT + '/public/javascripts/')
+FileUtils.cp_r("#{File.dirname(__FILE__)}/javascripts/wmd", "#{Rails.root}/public/javascripts/")
+
